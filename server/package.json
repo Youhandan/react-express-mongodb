@@ -1,0 +1,19 @@
+{
+  "name": "scms",
+  "version": "0.1.0",
+  "description": "a simple cms system",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cms"
+  ],
+  "author": "You",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.14"
+  }
+}
